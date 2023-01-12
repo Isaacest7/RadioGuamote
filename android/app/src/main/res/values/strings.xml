@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+      <string name="app_name">La Voz De Guamote</string>
+    <string name="title_activity_main">La Voz De Guamote</string>
+    <string name="package_name">com.puce.radiolavozdeguamote</string>
+    <string name="custom_url_scheme">com.puce.radiolavozdeguamote</string>
+</resources>

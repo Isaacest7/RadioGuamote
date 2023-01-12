@@ -1,0 +1,7 @@
+{
+  "name": "Radio1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
